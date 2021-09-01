@@ -6,5 +6,6 @@ package com.itguigu.testgit;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("测试协同开发第1次提交");
     }
 }
