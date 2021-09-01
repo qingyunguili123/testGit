@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("测试协同开发第1次提交");
         System.out.println("测试协同开发第2次提交");
         System.out.println("测试协同开发冲突1");
+        System.out.println("测试协同开发提交");
     }
 }
