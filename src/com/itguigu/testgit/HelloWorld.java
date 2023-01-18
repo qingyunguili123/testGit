@@ -13,5 +13,6 @@ public class HelloWorld {
         System.out.println("测试提交到本地仓库");
         System.out.println("hot_fix分支提交代码");
         System.out.println("hot_fix分支提交代码2222");
+        System.out.println("feature分支提交代码1111");
     }
 }
