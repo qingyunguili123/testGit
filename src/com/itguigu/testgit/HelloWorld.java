@@ -11,5 +11,6 @@ public class HelloWorld {
         System.out.println("测试协同开发冲突1");
         System.out.println("测试协同开发提交");
         System.out.println("测试提交到本地仓库");
+        System.out.println("hot_fix分支提交代码");
     }
 }
